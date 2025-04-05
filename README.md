@@ -31,12 +31,12 @@
   
   <!-- Project 1 -->
   <a href="https://github.com/karthikmadala/friends_app-using-Ruby-on-Rails">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karthikmadala&repo=REPO_NAME_1&theme=radical&show_owner=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karthikmadala&repo=friends_app-using-Ruby-on-Rails&theme=radical&show_owner=true" />
   </a>
   
   <!-- Project 2 -->
   <a href="https://github.com/karthikmadala/Dispalying-emoji-based-on-facial-expression">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karthikmadala&repo=REPO_NAME_2&theme=radical&show_owner=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karthikmadala&repo=Dispalying-emoji-based-on-facial-expression&theme=radical&show_owner=true" />
   </a>
 </div>
 

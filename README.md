@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Karthik Madala</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" width="120" alt="Profile Photo" style="border-radius: 50%" />
+  <img src="https://avatars.githubusercontent.com/u/karthikmadala?v=4" width="120" alt="Profile Photo" style="border-radius: 50%" />
 </p>
 
 <p align="center">

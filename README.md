@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthik Madala, a passionate developer exploring the world of technology!</h1>
 
-<div align="center">
+<div align="left">
   <h2>📜 Certifications</h2>
   <ul>
     <li>Database & SQL – *Infosys*</li>

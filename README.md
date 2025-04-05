@@ -1,7 +1,7 @@
 <!-- Header with animated gradient text -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Karthik+Madala;Computer+Vision+Engineer;Full-Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Karthik+Madala;Computer+Vision+Engineer;Web+Developer;AI+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 

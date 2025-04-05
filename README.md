@@ -4,9 +4,8 @@
 <h1 align="center">Hi 👋, I'm Karthik Madala</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/karthikmadala?v=4" width="120" alt="Profile Photo" style="border-radius: 50%" />
+  <img src="https://avatars.githubusercontent.com/u/182103871?v=4" width="120" alt="Profile Photo" style="border-radius: 50%" />
 </p>
-
 <p align="center">
   <b>B.Tech Graduate in Computer Science and Engineering</b><br>
   🔍 Passionate about AI, Python, and building smart solutions.<br>

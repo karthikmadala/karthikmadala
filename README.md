@@ -1,35 +1,5 @@
-# 💫 About Me:
-<!-- GitHub README for Karthik Madala -->
-
 <h1 align="center">Hi 👋, I'm Karthik Madala</h1>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/182103871?v=4" width="120" alt="Profile Photo" style="border-radius: 20%" />
-</p>
-<p align="center">
-  <b>B.Tech Graduate in Computer Science and Engineering</b><br>
-  🔍 Passionate about AI, Python, and building smart solutions.<br>
-  📫 Contact: karthikmadala30@gmail.com | 📱 8978451715<br>
-  🔗 <a href="https://www.linkedin.com/in/karthik-madala-15850a230" target="_blank">LinkedIn</a>
-</p>
-
----
-
-## 🎯 Career Objective
-
-Dedicated and detail-oriented Computer Science graduate with strong technical expertise in **Python, SQL, and data structures**. Passionate about solving complex problems and building innovative solutions. Seeking a challenging technical role to apply my skills in **programming, AI, and software development** to drive organizational success.
-
----
-
-## 🛠️ Technical Skills
-
-- **Languages**: Python, C, SQL  
-- **Frameworks**: CodeIgniter, Laravel (PHP)  
-- **Web Technologies**: HTML5, CSS, JavaScript  
-- **Databases**: PostgreSQL  
-- **Other**: Data Structures & Algorithms, Problem Solving, Agile Development
-
----
 
 ## 📜 Certifications
 
@@ -52,31 +22,6 @@ Dedicated and detail-oriented Computer Science graduate with strong technical ex
 
 ---
 
-## 🎓 Education
-
-**Andhra Engineering College – Andhra Pradesh, India**  
-Bachelor of Technology (B.Tech) in Computer Science and Engineering  
-📅 July 2019 – May 2023 | 🎯 Aggregate: 72%
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikmadala&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikmadala&layout=compact&theme=radical" />
-</p>
-
----
-
-## 📄 Declaration
-
-I hereby declare that the above information is true to the best of my knowledge and belief.  
-**– Karthik Madala**
-
----
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/karthik_madala_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karthik-m-15850a230/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthikmadala12@gmail.com) 
 
@@ -96,7 +41,5 @@ I hereby declare that the above information is true to the best of my knowledge 
 ---
 [![](https://visitcount.itsvg.in/api?id=karthikmadala&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![snake gif](https://github.com/karthikmadala/karthikmadala/blob/output/github-snake-dark.svg)
-

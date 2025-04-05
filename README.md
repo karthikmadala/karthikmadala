@@ -1,92 +1,101 @@
-<h1 align="center">Hi 👋, I'm Karthik Madala, a passionate developer with a focus on Computer Vision and Web Development, exploring the world of technology!</h1>
+<!-- Header with animated gradient text -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Karthik+Madala;Computer+Vision+Engineer;Full-Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
 
-<div align="center">
-  </div>
+<!-- Animated divider -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 🚀 Featured Projects
-
-### 1. **Displaying Emoji Based on Facial Expressions** <a href="YOUR_PROJECT_REPO_LINK_1" target="_blank">(GitHub)</a>
-- Built a real-time computer vision system using **Python** to detect facial expressions and display matching emojis, enhancing **Human-Machine Interaction (HMI)**. This project involved real-time video processing and facial expression recognition.
-- **Key Technologies:** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-
-### 2. **Face Mask Detection System** <a href="YOUR_PROJECT_REPO_LINK_2" target="_blank">(GitHub)</a>
-- Developed a real-time face mask detection system with **Python, OpenCV, and TensorFlow** to assist in public health compliance. The system utilizes a convolutional neural network (CNN) to identify the presence of face masks in video streams.
-- **Key Technologies:** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-
-<hr>
-
-## 🛠️ Skills
-<p align="left">
-  <strong>Programming Languages:</strong>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
-  <br>
-  <strong>Web Technologies:</strong>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <br>
-  <strong>Databases:</strong>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <br>
-  <strong>Tools & Technologies:</strong>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+<!-- 3D Profile View Counter -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=karthikmadala&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="karthikmadala" /> 
+  <a href="https://github.com/karthikmadala?tab=followers">
+    <img src="https://img.shields.io/github/followers/karthikmadala?label=Followers&style=social" alt="GitHub Followers">
+  </a>
 </p>
-<hr>
 
+<!-- Animated tech stack cards -->
+<h2 align="center">🔥 Tech Stack 🔥</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,php,laravel,ruby,python,html,css,js,mysql,postgres,sqlite,git,github,docker,opencv,tensorflow,numpy&perline=8" />
+  </a>
+</p>
+
+<!-- Project showcase with animated cards -->
+<h2 align="center">🚀 Featured Projects 🚀</h2>
 
 <div align="center">
-  <h2>🌐 Socials:</h2>
-  <p>
-    <a href="https://instagram.com/karthik_madala/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://linkedin.com/in/karthik-m-15850a230/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:karthikmadala12@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </p>
-  <hr>
+  
+  <!-- Project 1 -->
+  <a href="YOUR_PROJECT_REPO_LINK_1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karthikmadala&repo=REPO_NAME_1&theme=radical&show_owner=true" />
+  </a>
+  
+  <!-- Project 2 -->
+  <a href="YOUR_PROJECT_REPO_LINK_2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karthikmadala&repo=REPO_NAME_2&theme=radical&show_owner=true" />
+  </a>
+</div>
 
-  <h2>📊 GitHub Stats:</h2>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=karthikmadala&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats">
-    <br/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=karthikmadala&theme=transparent&hide_border=true" alt="GitHub Streak">
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikmadala&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
-  </p>
-  <hr>
+<!-- GitHub stats with glow effect -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
-  <h2>🏆 GitHub Trophies</h2>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=karthikmadala&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-  </p>
-  <hr>
+<div align="center">
+  <!-- Stats with glow -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthikmadala&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&border_color=7F00FF&ring=7F00FF&fire=FF0000&currStreakNum=FFFFFF"/>
+  
+  <!-- Streak stats with fire animation -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=karthikmadala&theme=radical&border_radius=20&border=7F00FF&ring=7F00FF&fire=FF0000&currStreakNum=FFFFFF"/>
+  
+  <!-- Language stats with 3D effect -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikmadala&layout=compact&langs_count=8&theme=radical&border_radius=20&border_color=7F00FF"/>
+</div>
 
-  <h3>✍️ Random Dev Quote</h3>
-  <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-  </p>
-  <hr>
+<!-- 3D Contribution Graph -->
+<h2 align="center">🌱 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikmadala&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=7F00FF&line=7F00FF&point=FFFFFF&color=FFFFFF" width="90%"/>
+</p>
 
+<!-- Trophy case with animation -->
+<h2 align="center">🏆 GitHub Achievements</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karthikmadala&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
+</p>
 
-  <p align="center">
-    <img src="https://github.com/karthikmadala/karthikmadala/blob/output/github-snake-dark.svg" alt="Snake GIF">
-  </p>
+<!-- Spotify currently playing (replace with your username) 
+<h2 align="center">🎵 Now Playing</h2>
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=7F00FF&bar_color_cover=true" width="50%"/>
+</p>-->
+
+<!-- Social badges with hover effects -->
+<h2 align="center">📫 Connect With Me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/karthik-m-15850a230/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2"/>
+  </a>
+  <a href="https://instagram.com/karthik_madala/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F"/>
+  </a>
+  <a href="mailto:karthikmadala12@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2"/>
+  </a>
+</p>
+
+<!-- Snake animation with custom color -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/karthikmadala/karthikmadala/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/karthikmadala/karthikmadala/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
+</div>
+
+<!-- Floating astronaut animation -->
+<div align="right">
+  <img src="https://raw.githubusercontent.com/karthikmadala/karthikmadala/main/images/astronaut.gif" width="200px">
 </div>

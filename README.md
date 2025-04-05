@@ -51,17 +51,15 @@
 <div align="center">
   <h2>🌐 Socials:</h2>
   <p>
-    <a href="https://instagram.com/https://www.instagram.com/karthik_madala/" target="_blank">
+    <a href="https://instagram.com/karthik_madala/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/karthik-m-15850a230/" target="_blank">
+    <a href="https://linkedin.com/in/karthik-m-15850a230/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:karthikmadala12@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <br>
-    <a href="https://instagram.com/https://www.instagram.com/karthik_madala/" target="_blank">Instagram</a> | <a href="https://linkedin.com/in/https://www.linkedin.com/in/karthik-m-15850a230/" target="_blank">LinkedIn</a> | <a href="mailto:karthikmadala12@gmail.com" target="_blank">Email</a>
   </p>
   <hr>
 

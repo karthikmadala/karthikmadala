@@ -70,14 +70,6 @@ Bachelor of Technology (B.Tech) in Computer Science and Engineering
 
 ---
 
-## 🐍 Snake Eating My Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/karthikmadala/karthikmadala/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## 📄 Declaration
 
 I hereby declare that the above information is true to the best of my knowledge and belief.  

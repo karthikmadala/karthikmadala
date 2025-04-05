@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Karthik Madala, a passionate developer exploring the world of technology!</h1>
+<h1>Hi 👋, I'm Karthik Madala</h1>
 
-<div align="left">
+<div align="center">
   <h2>📜 Certifications</h2>
   <ul>
     <li>Database & SQL – *Infosys*</li>
@@ -9,27 +9,22 @@
     <li>Excel Skills Job Simulation – *JPMorgan Chase & Co.*</li>
   </ul>
   <hr>
-</div>
 
-<div align="center">
   <h2>📂 Projects</h2>
-
-  <h3>1. **Displaying Emoji Based on Facial Expressions**</h3>
-  <p>
-    Built a real-time computer vision system using <strong>Python</strong> to detect facial expressions and display matching emojis, enhancing <strong>Human-Machine Interaction (HMI)</strong>.
-  </p>
-  <p>
-    <strong>Tech Stack:</strong> Python
-  </p>
-  <hr>
-
-  <h3>2. **Face Mask Detection System**</h3>
-  <p>
-    Developed a real-time face mask detection system with <strong>Python, OpenCV, and TensorFlow</strong> to assist in public health compliance.
-  </p>
-  <p>
-    <strong>Tech Stack:</strong> Python, OpenCV, TensorFlow
-  </p>
+  <div>
+    <h3>1. **Displaying Emoji Based on Facial Expressions**</h3>
+    <p>
+      Built a real-time computer vision system using **Python** to detect facial expressions.
+      Displayed matching emojis to enhance **Human-Machine Interaction (HMI)**.
+    </p>
+  </div>
+  <div>
+    <h3>2. **Face Mask Detection System**</h3>
+    <p>
+      Built with **Python, OpenCV, TensorFlow** to detect face masks in real-time.
+      Aimed to assist in public health compliance.
+    </p>
+  </div>
   <hr>
 
   <h2>🌐 Socials:</h2>
@@ -43,8 +38,6 @@
     <a href="mailto:karthikmadala12@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
     </a>
-    <br>
-    <a href="https://instagram.com/https://www.instagram.com/karthik_madala/">Instagram</a> | <a href="https://linkedin.com/in/https://www.linkedin.com/in/karthik-m-15850a230/">LinkedIn</a> | <a href="mailto:karthikmadala12@gmail.com">Email</a>
   </p>
   <hr>
 
@@ -71,7 +64,7 @@
   <hr>
 
   <h2>📊 GitHub Stats:</h2>
-  <p align="center">
+  <p>
     <img src="https://github-readme-stats.vercel.app/api?username=karthikmadala&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats">
     <br/>
     <img src="https://nirzak-streak-stats.vercel.app/?user=karthikmadala&theme=transparent&hide_border=true" alt="GitHub Streak">
@@ -81,24 +74,18 @@
   <hr>
 
   <h2>🏆 GitHub Trophies</h2>
-  <p align="center">
+  <p>
     <img src="https://github-profile-trophy.vercel.app/?username=karthikmadala&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
   </p>
   <hr>
 
   <h3>✍️ Random Dev Quote</h3>
-  <p align="center">
+  <p>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
   </p>
   <hr>
 
-  <p align="center">
-    <a href="https://visitcount.itsvg.in/api?id=karthikmadala&icon=0&color=0">
-      <img src="https://visitcount.itsvg.in/api?id=karthikmadala&icon=0&color=0" alt="Visitor Count">
-    </a>
-  </p>
-
-  <p align="center">
+  <p>
     <img src="https://github.com/karthikmadala/karthikmadala/blob/output/github-snake-dark.svg" alt="Snake GIF">
   </p>
 </div>

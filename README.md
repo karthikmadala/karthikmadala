@@ -78,7 +78,7 @@
   <a href="https://linkedin.com/in/karthik-m-15850a230/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2"/>
   </a>
-  <a href="https://instagram.com/karthik_madala/" target="_blank">
+  <a href="https://instagram.com/karthik_madala_/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F"/>
   </a>
   <a href="mailto:karthikmadala12@gmail.com" target="_blank">
@@ -93,6 +93,6 @@
 ![snake gif](https://github.com/karthikmadala/karthikmadala/blob/output/github-snake-dark.svg)
 
 <!-- Floating astronaut animation -->
-<div align="right">
+<div align="right"> 
   <img src="https://raw.githubusercontent.com/karthikmadala/karthikmadala/main/images/astronaut.gif" width="200px">
 </div>

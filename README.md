@@ -9,7 +9,9 @@
     <li>Excel Skills Job Simulation – *JPMorgan Chase & Co.*</li>
   </ul>
   <hr>
+</div>
 
+<div align="center">
   <h2>📂 Projects</h2>
 
   <h3>1. **Displaying Emoji Based on Facial Expressions**</h3>

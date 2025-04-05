@@ -30,12 +30,12 @@
 <div align="center">
   
   <!-- Project 1 -->
-  <a href="YOUR_PROJECT_REPO_LINK_1">
+  <a href="https://github.com/karthikmadala/friends_app-using-Ruby-on-Rails">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karthikmadala&repo=REPO_NAME_1&theme=radical&show_owner=true" />
   </a>
   
   <!-- Project 2 -->
-  <a href="YOUR_PROJECT_REPO_LINK_2">
+  <a href="https://github.com/karthikmadala/Dispalying-emoji-based-on-facial-expression">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karthikmadala&repo=REPO_NAME_2&theme=radical&show_owner=true" />
   </a>
 </div>
@@ -90,10 +90,7 @@
 </p>
 
 <!-- Snake animation with custom color -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/karthikmadala/karthikmadala/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
-  <img src="https://raw.githubusercontent.com/karthikmadala/karthikmadala/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
-</div>
+![snake gif](https://github.com/karthikmadala/karthikmadala/blob/output/github-snake-dark.svg)
 
 <!-- Floating astronaut animation -->
 <div align="right">

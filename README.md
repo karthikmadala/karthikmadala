@@ -20,7 +20,7 @@
 <h2 align="center">🔥 Tech Stack 🔥</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,php,laravel,ruby,python,html,css,js,mysql,postgres,sqlite,git,github,docker,opencv,tensorflow,numpy&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,php,laravel,ruby,rails,py,html,css,js,mysql,postgres,sqlite,git,github,docker,opencv,tensorflow,vscode,bitbucket,bootstrap,elasticsearch,gmail,linux,netlify.powershell,windows&perline=8" />
   </a>
 </p>
 
